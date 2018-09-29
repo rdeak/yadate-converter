@@ -4,7 +4,7 @@ Yet another date to string and string to date converter
 
 ## Main features
 
-* parse formated string to date
+* parse formatted string to date
 * format date to string
 
 ## Install
