@@ -1,15 +1,19 @@
 {
   "name": "yadate-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yet another date to string and string to date converter",
   "keywords": [
-    "date", "parse", "format"
+    "date",
+    "parse",
+    "format"
   ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/rdeak/yadate-converter.git"
+    "type": "git",
+    "url": "https://github.com/rdeak/yadate-converter.git"
   },
-  "bugs": { "url" : "https://github.com/rdeak/yadate-converter" },
+  "bugs": {
+    "url": "https://github.com/rdeak/yadate-converter"
+  },
   "main": "dist/yadate-converter.js",
   "scripts": {
     "build": "webpack --mode production",
