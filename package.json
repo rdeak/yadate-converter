@@ -1,6 +1,6 @@
 {
   "name": "yadate-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Yet another date to string and string to date converter",
   "keywords": [
     "date",
