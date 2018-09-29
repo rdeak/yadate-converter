@@ -43,10 +43,10 @@ HH | 2 digit hour | 04
 m | minutes | 8
 mm | 2 digit minutes | 08
 s | seconds | 7
-ss | seconds | 07
-S | milisecons | 1 or 01 or 001
+ss | 2 digit seconds | 07
+S | miliseconds | 1 or 01 or 001
 SS | 2 digit miliseconds | 02
-SSS | 3 digit milisecons | 003
+SSS | 3 digit miliseconds | 003
 
 
 ## License
