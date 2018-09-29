@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/rdeak/yadate-converter.svg?branch=master)](https://travis-ci.com/rdeak/yadate-converter)
+[![Coverage Status](https://coveralls.io/repos/github/rdeak/yadate-converter/badge.svg?branch=master)](https://coveralls.io/github/rdeak/yadate-converter?branch=master)
+
 # yadate-converter
 
 Yet another date to string and string to date converter
