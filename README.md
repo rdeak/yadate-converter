@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/rdeak/yadate-converter.svg?branch=master)](https://travis-ci.com/rdeak/yadate-converter)
 [![Coverage Status](https://coveralls.io/repos/github/rdeak/yadate-converter/badge.svg?branch=master)](https://coveralls.io/github/rdeak/yadate-converter?branch=master)
+[![install size](https://packagephobia.now.sh/badge?p=yadate-converter)](https://packagephobia.now.sh/result?p=yadate-converter)
 
 # yadate-converter
 
